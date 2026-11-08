@@ -1,0 +1,15 @@
+/home/ipop/projects/Microservices/eCommerce.API/eCommerce.Infrastructure/obj/Debug/net9.0/eCommerce.Infrastructure.csproj.AssemblyReference.cache
+/home/ipop/projects/Microservices/eCommerce.API/eCommerce.Infrastructure/obj/Debug/net9.0/eCommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/ipop/projects/Microservices/eCommerce.API/eCommerce.Infrastructure/obj/Debug/net9.0/eCommerce.Infrastructure.AssemblyInfoInputs.cache
+/home/ipop/projects/Microservices/eCommerce.API/eCommerce.Infrastructure/obj/Debug/net9.0/eCommerce.Infrastructure.AssemblyInfo.cs
+/home/ipop/projects/Microservices/eCommerce.API/eCommerce.Infrastructure/obj/Debug/net9.0/eCommerce.Infrastructure.csproj.CoreCompileInputs.cache
+/home/ipop/projects/Microservices/eCommerce.API/eCommerce.Infrastructure/bin/Debug/net9.0/eCommerce.Infrastructure.deps.json
+/home/ipop/projects/Microservices/eCommerce.API/eCommerce.Infrastructure/bin/Debug/net9.0/eCommerce.Infrastructure.dll
+/home/ipop/projects/Microservices/eCommerce.API/eCommerce.Infrastructure/bin/Debug/net9.0/eCommerce.Infrastructure.pdb
+/home/ipop/projects/Microservices/eCommerce.API/eCommerce.Infrastructure/bin/Debug/net9.0/eCommerce.Core.dll
+/home/ipop/projects/Microservices/eCommerce.API/eCommerce.Infrastructure/bin/Debug/net9.0/eCommerce.Core.pdb
+/home/ipop/projects/Microservices/eCommerce.API/eCommerce.Infrastructure/obj/Debug/net9.0/eCommerc.0C272DDA.Up2Date
+/home/ipop/projects/Microservices/eCommerce.API/eCommerce.Infrastructure/obj/Debug/net9.0/eCommerce.Infrastructure.dll
+/home/ipop/projects/Microservices/eCommerce.API/eCommerce.Infrastructure/obj/Debug/net9.0/refint/eCommerce.Infrastructure.dll
+/home/ipop/projects/Microservices/eCommerce.API/eCommerce.Infrastructure/obj/Debug/net9.0/eCommerce.Infrastructure.pdb
+/home/ipop/projects/Microservices/eCommerce.API/eCommerce.Infrastructure/obj/Debug/net9.0/ref/eCommerce.Infrastructure.dll

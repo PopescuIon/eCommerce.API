@@ -1,0 +1,12 @@
+/home/ipop/projects/Microservices/eCommerce.API/eCommerce.Core/bin/Debug/net9.0/eCommerce.Core.deps.json
+/home/ipop/projects/Microservices/eCommerce.API/eCommerce.Core/bin/Debug/net9.0/eCommerce.Core.dll
+/home/ipop/projects/Microservices/eCommerce.API/eCommerce.Core/bin/Debug/net9.0/eCommerce.Core.pdb
+/home/ipop/projects/Microservices/eCommerce.API/eCommerce.Core/obj/Debug/net9.0/eCommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/ipop/projects/Microservices/eCommerce.API/eCommerce.Core/obj/Debug/net9.0/eCommerce.Core.AssemblyInfoInputs.cache
+/home/ipop/projects/Microservices/eCommerce.API/eCommerce.Core/obj/Debug/net9.0/eCommerce.Core.AssemblyInfo.cs
+/home/ipop/projects/Microservices/eCommerce.API/eCommerce.Core/obj/Debug/net9.0/eCommerce.Core.csproj.CoreCompileInputs.cache
+/home/ipop/projects/Microservices/eCommerce.API/eCommerce.Core/obj/Debug/net9.0/eCommerce.Core.dll
+/home/ipop/projects/Microservices/eCommerce.API/eCommerce.Core/obj/Debug/net9.0/refint/eCommerce.Core.dll
+/home/ipop/projects/Microservices/eCommerce.API/eCommerce.Core/obj/Debug/net9.0/eCommerce.Core.pdb
+/home/ipop/projects/Microservices/eCommerce.API/eCommerce.Core/obj/Debug/net9.0/ref/eCommerce.Core.dll
+/home/ipop/projects/Microservices/eCommerce.API/eCommerce.Core/obj/Debug/net9.0/eCommerce.Core.csproj.AssemblyReference.cache
